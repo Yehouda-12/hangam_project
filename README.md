@@ -26,7 +26,9 @@ git clone  https://github.com/Yehouda-12/hangam_project.git
 cd hangman_project
 ```
 
-# Project Structure
+## 🧠 Project Structure
+
+```text
 hangman_project/
 ├── hangman/
 │   ├── game.py          # Game logic
@@ -36,6 +38,8 @@ hangman_project/
 │   └── data.py          # Word list
 ├── main.py              # Game launcher
 └── README.md            # Project documentation
+```
+
 
 
 
