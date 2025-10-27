@@ -18,4 +18,5 @@ def play(words: list[str], max_tries: int = 6):
         print_status(state)
 
     print_result(state)
-play(english_words,6)
+if __name__ == "__main__" :
+    play(english_words,6)
